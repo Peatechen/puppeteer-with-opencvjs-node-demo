@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "jimp": "^0.16.1",
+    "lodash": "^4.17.21",
+    "opencv.js": "^1.2.1",
+    "pngjs": "^6.0.0",
+    "puppeteer": "^14.1.1"
+  }
+}
